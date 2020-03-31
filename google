@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <link rel="stylesheet" href="style.css"/>
+  <title>Google</title>
+</head>
+
+<body>
+ <header>
+
+   <div id="nav">
+    <div id="element1"><a href=https://accounts.google.com/ServiceLogin/signinchooser?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F%3Ftab%3Dwm%26ogbl&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin/>Gmail</a></div>
+    <div id="element2"><a href=https://www.google.fr/imghp?hl=fr&tab=wi&ogbl/>Image</a></div>
+    <div id="element3"><img src="carre.png"/></div>
+    <div class="element4"><a href=https://accounts.google.com/ServiceLogin/signinchooser?hl=fr&passive=true&continue=https%3A%2F%2Fwww.google.fr%2F&flowName=GlifWebSignIn&flowEntry=ServiceLogin/><mark>Connexion</mark></a></div>
+  </div>
+
+ </header>
+
+ <div id="logo">
+
+   <div id="google"><img src="googlelogo.png"/></div>
+
+ </div>
+ 
+ <form id="recherche" method="post">
+ 
+  <input name="saisie" type="text"/>
+  <input class="loupe"><img src="loupe.png"/>
+  <input class="micro"><img src="micro.png"/>
+</form>
+
+
+ <footer>
+
+  <div id="footer">
+  <div>
+   <div id="publiation"> Publication Judiciaire</div>
+   <div id="info"> Info consommateurs </div>
+   <div id = "confidentialite"> Confidentialité</div>
+   <div id="condition"> Conditions</div>
+   <div id= parametres> Paramètres</div>
+  </div>
+
+  <div>
+    <div id="pub">Publicité</div>
+    <div id="entreprise"> Entreprise</div>
+    <div id="propos"> A propos </div>
+    <div id="comment"> Comment fonctionne la recherche Google ? </div>
+
+
+
+
+ </footer>
+
+
+</body>
+</html>
